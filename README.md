@@ -1,3 +1,4 @@
 # Discord Santa Bot
 
-Really just a proof of concept. Should work with a few minor adjustments. 
+Threw this together pretty quickly for christmas 2022.  
+The It's far from perfect.
